@@ -14,7 +14,7 @@ ARG COMMIT
 LABEL org.label-schema.vendor="Weaveworks" \
   org.label-schema.build-date="${BUILD_DATE}" \
   org.label-schema.version="${BUILD_VERSION}" \
-  org.label-schema.name="Socks Shop: Cart" \
+  org.label-schema.name="Pop Shop: Cart" \
   org.label-schema.description="REST API for Cart service" \
   org.label-schema.url="https://github.com/kevindevries/cart" \
   org.label-schema.vcs-url="github.com:kevindevries/cart.git" \
